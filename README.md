@@ -31,11 +31,11 @@ Ideal for beginners who want to:
 To run the game locally:
 1. Clone the repo  
   
-   git clone https://github.com/SatChittAnand/TicTacToe.git
+   `git clone` https://github.com/SatChittAnand/TicTacToe.git
   
 2. Navigate to the project directory  
    
-   cd tic-tac-toe
+   `cd tic-tac-toe`
  
 3. Open `index.html` in your preferred browser
 
